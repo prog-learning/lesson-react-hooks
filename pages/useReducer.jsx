@@ -1,7 +1,7 @@
 import { useReducer, useState } from 'react';
 
 const UseReducer = () => {
-  console.log('useReducer page rendering!!');
+  console.log('render page useReducer.');
   const initialState = {
     name: '',
     email: '',
